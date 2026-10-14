@@ -1,12 +1,12 @@
-<h1 align="center">¡Hola! 👋 Soy Alex Ramírez</h1>
-<h3 align="center">Desarrollador Full Stack | Apasionado por el código limpio y las buenas interfaces</h3>
+<h1 align="center">¡Hola! 👋 Soy Eric Morales Baltazar</h1>
+<h3 align="center">Estudiante de Ingeniería | Apasionado por la tecnología y el desarrollo de software</h3>
 
 <p align="center">
-  <a href="https://github.com/alexramirezdev">
-    <img src="https://komarev.com/ghpvc/?username=alexramirezdev&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
+  <a href="https://github.com/ericmoralesdev">
+    <img src="https://komarev.com/ghpvc/?username=ericmoralesdev&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
   </a>
-  <a href="https://twitter.com/alexramirezdev">
-    <img src="https://img.shields.io/twitter/follow/alexramirezdev?logo=twitter&style=flat&color=1DA1F2" alt="Twitter" />
+  <a href="https://x.com/ericmrlsbl">
+    <img src="https://img.shields.io/twitter/follow/ericmrlsbl?logo=x&style=flat&color=000000" alt="X" />
   </a>
 </p>
 
@@ -14,38 +14,32 @@
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en **una app de finanzas personales con React Native**
-- 🌱 Aprendiendo **Rust** y **Arquitectura de microservicios**
-- 👯 Buscando colaborar en **proyectos open source de TypeScript**
-- 💬 Pregúntame sobre **JavaScript, React, Node.js, PostgreSQL o Docker**
-- 📫 Contáctame en **alex.ramirez.dev@gmail.com**
-- ⚡ Dato curioso: **tengo más de 40 plantas y las riego mientras compilo**
+- 🎓 Estudiante de **Ingeniería** en la [Universidad Autónoma de México] *(inventado)*
+- 🔭 Actualmente desarrollando un **sistema de gestión escolar** como proyecto personal
+- 🌱 Aprendiendo **React**, **Node.js** y **bases de datos**
+- 💬 Pregúntame sobre **Python, JavaScript, HTML/CSS o Git**
+- 📫 Contáctame en **eric.morales.dev@gmail.com** *(inventado)*
+- ⚡ Dato curioso: **siempre llevo audífonos y una libreta para apuntar ideas**
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Bases de datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Frameworks y librerías
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### DevOps y herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -53,16 +47,16 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexramirezdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexramirezdev&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericmoralesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmoralesdev&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexramirezdev&theme=tokyonight" alt="racha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericmoralesdev&theme=tokyonight" alt="racha" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexramirezdev&theme=tokyonight&row=1&column=6" alt="trofeos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ericmoralesdev&theme=tokyonight&row=1&column=6" alt="trofeos" />
 </p>
 
 ---
@@ -72,46 +66,46 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💰 FinTrack</h3>
-      <p align="center">App móvil para gestionar finanzas personales con gráficas interactivas y sincronización en la nube.</p>
+      <h3 align="center">📚 EduManager</h3>
+      <p align="center">Sistema web para gestionar calificaciones, asistencia y tareas escolares.</p>
       <p align="center">
-        <a href="https://github.com/alexramirezdev/fintrack">
+        <a href="https://github.com/ericmoralesdev/edumanager">
           <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
-      <p align="center"><b>React Native · Node.js · PostgreSQL</b></p>
+      <p align="center"><b>Python · Flask · SQLite</b></p>
     </td>
     <td width="50%">
-      <h3 align="center">📝 DevNotes</h3>
-      <p align="center">Editor de notas Markdown con sincronización offline y temas personalizables.</p>
+      <h3 align="center">🧮 Calculadora Científica</h3>
+      <p align="center">Calculadora con funciones avanzadas y modo oscuro, hecha para practicar JavaScript.</p>
       <p align="center">
-        <a href="https://github.com/alexramirezdev/devnotes">
+        <a href="https://github.com/ericmoralesdev/calculadora">
           <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
-      <p align="center"><b>Next.js · TypeScript · Prisma</b></p>
+      <p align="center"><b>JavaScript · HTML · CSS</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 CodeBot</h3>
-      <p align="center">Bot de Discord que resume pull requests y notifica al equipo automáticamente.</p>
+      <h3 align="center">🌐 Portafolio Personal</h3>
+      <p align="center">Mi sitio web personal con mis proyectos, habilidades y contacto.</p>
       <p align="center">
-        <a href="https://github.com/alexramirezdev/codebot">
+        <a href="https://github.com/ericmoralesdev/portfolio">
           <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
-      <p align="center"><b>Python · FastAPI · Docker</b></p>
+      <p align="center"><b>HTML · CSS · JavaScript</b></p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Portfolio</h3>
-      <p align="center">Mi sitio personal con animaciones fluidas y modo oscuro.</p>
+      <h3 align="center">📝 To-Do App</h3>
+      <p align="center">Lista de tareas con almacenamiento local y diseño responsive.</p>
       <p align="center">
-        <a href="https://github.com/alexramirezdev/portfolio">
+        <a href="https://github.com/ericmoralesdev/todo-app">
           <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
-      <p align="center"><b>Next.js · Tailwind · Framer Motion</b></p>
+      <p align="center"><b>React · CSS Modules</b></p>
     </td>
   </tr>
 </table>
@@ -121,10 +115,10 @@
 ## 📈 Actividad reciente
 
 <!--START_SECTION:activity-->
-- 🎉 Merged PR #42 en alexramirezdev/fintrack
-- 💪 Opened PR #18 en alexramirezdev/devnotes
-- 🚀 Publicado release v2.1.0 en alexramirezdev/codebot
-- ⭐ Dio estrella a microsoft/TypeScript
+- 🎉 Merged PR #12 en ericmoralesdev/edumanager
+- 💪 Opened PR #5 en ericmoralesdev/calculadora
+- 🚀 Publicado release v1.0.0 en ericmoralesdev/portfolio
+- ⭐ Dio estrella a freeCodeCamp/freeCodeCamp
 <!--END_SECTION:activity-->
 
 > 💡 Puedes automatizar esta sección con [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) o con GitHub Actions.
@@ -134,26 +128,26 @@
 ## 🐍 Contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alexramirezdev/alexramirezdev/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/ericmoralesdev/ericmoralesdev/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
-> 💡 Actívala con [Snake Game Action](https://github.com/Platane/snk). Reemplaza `alexramirezdev` por tu usuario real.
+> 💡 Actívala con [Snake Game Action](https://github.com/Platane/snk). Reemplaza `ericmoralesdev` por tu usuario real.
 
 ---
 
 ## 🔗 Conéctate conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/alexramirezdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/eric.mrlxx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/alexramirezdev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/ericmrlsbl">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://alexramirez.dev">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://github.com/ericmoralesdev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:alex.ramirez.dev@gmail.com">
+  <a href="mailto:eric.morales.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -161,9 +155,9 @@
 ---
 
 <p align="center">
-  <i>"El código es como el humor: si tienes que explicarlo, no es tan bueno."</i> — Cory House
+  <i>"La ingeniería no es solo resolver problemas, es crear soluciones que mejoren la vida."</i>
 </p>
 
 <p align="center">
-  ⭐️ De <a href="https://github.com/alexramirezdev">Alex Ramírez</a>
+  ⭐️ De <a href="https://github.com/ericmoralesdev">Eric Morales Baltazar</a>
 </p>
