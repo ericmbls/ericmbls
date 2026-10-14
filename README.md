@@ -2,8 +2,8 @@
 <h3 align="center">Estudiante de Ingeniería | Apasionado por la tecnología y el desarrollo de software</h3>
 
 <p align="center">
-  <a href="https://github.com/ericmoralesdev">
-    <img src="https://komarev.com/ghpvc/?username=ericmoralesdev&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
+  <a href="https://github.com/ericmbls">
+    <img src="https://komarev.com/ghpvc/?username=ericmbls&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
   </a>
   <a href="https://x.com/ericmrlsbl">
     <img src="https://img.shields.io/twitter/follow/ericmrlsbl?logo=x&style=flat&color=000000" alt="X" />
@@ -14,11 +14,11 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería** en la [Universidad Autónoma de México] *(inventado)*
-- 🔭 Actualmente desarrollando un **sistema de gestión escolar** como proyecto personal
+- 🎓 Estudiante de **Ingeniería** 
+- 🔭 Actualmente desarrollando **Tetlalli**, un proyecto web con CSS
 - 🌱 Aprendiendo **React**, **Node.js** y **bases de datos**
-- 💬 Pregúntame sobre **Python, JavaScript, HTML/CSS o Git**
-- 📫 Contáctame en **eric.morales.dev@gmail.com** *(inventado)*
+- 💬 Pregúntame sobre **Python, JavaScript, HTML/CSS, Java o Git**
+- 📫 Contáctame en **morales.baltazar.eroc** *(inventado)*
 - ⚡ Dato curioso: **siempre llevo audífonos y una libreta para apuntar ideas**
 
 ---
@@ -28,6 +28,7 @@
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -47,16 +48,16 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericmoralesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmoralesdev&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericmbls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmbls&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericmoralesdev&theme=tokyonight" alt="racha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericmbls&theme=tokyonight" alt="racha" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ericmoralesdev&theme=tokyonight&row=1&column=6" alt="trofeos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ericmbls&theme=tokyonight&row=1&column=6" alt="trofeos" />
 </p>
 
 ---
@@ -66,46 +67,68 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📚 EduManager</h3>
-      <p align="center">Sistema web para gestionar calificaciones, asistencia y tareas escolares.</p>
+      <h3 align="center">🌿 Tetlalli</h3>
+      <p align="center">Proyecto web con temática de plantas y naturaleza, hecho con CSS puro.</p>
       <p align="center">
-        <a href="https://github.com/ericmoralesdev/edumanager">
+        <a href="https://github.com/ericmbls/Tetlalli">
           <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
-      <p align="center"><b>Python · Flask · SQLite</b></p>
+      <p align="center"><b>CSS · HTML</b></p>
     </td>
     <td width="50%">
-      <h3 align="center">🧮 Calculadora Científica</h3>
-      <p align="center">Calculadora con funciones avanzadas y modo oscuro, hecha para practicar JavaScript.</p>
+      <h3 align="center">🎸 GuitarsApp</h3>
+      <p align="center">Aplicación web para explorar guitarras, con diseño responsive y estilos personalizados.</p>
       <p align="center">
-        <a href="https://github.com/ericmoralesdev/calculadora">
+        <a href="https://github.com/ericmbls/guitarsApp">
           <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
-      <p align="center"><b>JavaScript · HTML · CSS</b></p>
+      <p align="center"><b>CSS · HTML · JavaScript</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Portafolio Personal</h3>
+      <h3 align="center">⚡ RadixSort</h3>
+      <p align="center">Implementación del algoritmo de ordenamiento RadixSort en Java, con explicación paso a paso.</p>
+      <p align="center">
+        <a href="https://github.com/ericmbls/RadixSort">
+          <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center"><b>Java</b></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔍 BusquedaBinaria</h3>
+      <p align="center">Algoritmo de búsqueda binaria implementado en Java, ideal para practicar estructuras de datos.</p>
+      <p align="center">
+        <a href="https://github.com/ericmbls/BusquedaBinaria">
+          <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center"><b>Java</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ QuickSort</h3>
+      <p align="center">Implementación del algoritmo QuickSort en Java, con pruebas y ejemplos de uso.</p>
+      <p align="center">
+        <a href="https://github.com/ericmbls/QuickSort">
+          <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center"><b>Java</b></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Portafolio</h3>
       <p align="center">Mi sitio web personal con mis proyectos, habilidades y contacto.</p>
       <p align="center">
-        <a href="https://github.com/ericmoralesdev/portfolio">
-          <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
+        <a href="https://ericmbls.github.io">
+          <img src="https://img.shields.io/badge/Ver_sitio-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
       <p align="center"><b>HTML · CSS · JavaScript</b></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📝 To-Do App</h3>
-      <p align="center">Lista de tareas con almacenamiento local y diseño responsive.</p>
-      <p align="center">
-        <a href="https://github.com/ericmoralesdev/todo-app">
-          <img src="https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p align="center"><b>React · CSS Modules</b></p>
     </td>
   </tr>
 </table>
@@ -115,10 +138,10 @@
 ## 📈 Actividad reciente
 
 <!--START_SECTION:activity-->
-- 🎉 Merged PR #12 en ericmoralesdev/edumanager
-- 💪 Opened PR #5 en ericmoralesdev/calculadora
-- 🚀 Publicado release v1.0.0 en ericmoralesdev/portfolio
+- 🚀 Publicado release v1.0.0 en ericmbls/Tetlalli
+- 💪 Opened PR #3 en ericmbls/guitarsApp
 - ⭐ Dio estrella a freeCodeCamp/freeCodeCamp
+- 🎉 Merged PR #7 en ericmbls/RadixSort
 <!--END_SECTION:activity-->
 
 > 💡 Puedes automatizar esta sección con [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) o con GitHub Actions.
@@ -128,10 +151,10 @@
 ## 🐍 Contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ericmoralesdev/ericmoralesdev/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/ericmbls/ericmbls/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
-> 💡 Actívala con [Snake Game Action](https://github.com/Platane/snk). Reemplaza `ericmoralesdev` por tu usuario real.
+> 💡 Actívala con [Snake Game Action](https://github.com/Platane/snk). Reemplaza `ericmbls` por tu usuario real (ya está listo).
 
 ---
 
@@ -144,7 +167,7 @@
   <a href="https://x.com/ericmrlsbl">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://github.com/ericmoralesdev">
+  <a href="https://github.com/ericmbls">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:eric.morales.dev@gmail.com">
@@ -159,5 +182,5 @@
 </p>
 
 <p align="center">
-  ⭐️ De <a href="https://github.com/ericmoralesdev">Eric Morales Baltazar</a>
+  ⭐️ De <a href="https://github.com/ericmbls">Eric Morales Baltazar</a>
 </p>
